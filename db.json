@@ -6,11 +6,7 @@
           "dateAdded":"2020-09-11",
           "title":"Discussed additional investment with Ma...",
           "author":"Nick Buoniconti",
-          "activityTags":[
-            "Accounting: NAV / Capital Accounting",
-            "Demo - New Sales",
-            "Sales"
-          ]
+          "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales"
        },
        {
           "type":"Meeting",
@@ -18,9 +14,7 @@
           "dateAdded":"2020-09-11",
           "title":"Draft PCH/PBR - Backstop functionality",
           "author":"Jennifer Antiguilliaro",
-          "activityTags":[
-            "Sales - General"
-          ]
+          "activityTags":"Sales - General"
        },
        {
           "type":"Call",
@@ -28,10 +22,7 @@
           "dateAdded":"2020-09-11",
           "title":"Consectetur Initiatives - Mercer Integration",
           "author":"Patrick Sanchez",
-          "activityTags":[
-            "Demo - New Sales",
-            "Sales"
-          ]
+          "activityTags":"Demo - New Sales;Sales"
        },
        {
           "type":"Document",
@@ -39,9 +30,7 @@
           "dateAdded":"2020-09-11",
           "title":"Custom Entity Page Report",
           "author":"Seok Aei-young",
-          "activityTags":[
-            "Demo - New Sales"
-          ]
+          "activityTags":"Demo - New Sales"
        },
        {
           "type":"Email",
@@ -56,13 +45,7 @@
           "dateAdded":"2020-09-11",
           "title":"Product Function Call with IR Team",
           "author":"Jennifer Antiguilliaro",
-          "activityTags":[
-            "Accounting: NAV / Capital Accounting",
-            "Demo - New Sales",
-            "Sales",
-            "Legal: Memorandum and Art",
-            "Sales - General"
-          ]
+          "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales;Legal: Memorandum and Art;Sales - General"
        },
        {
           "type":"Email",
@@ -77,9 +60,7 @@
           "dateAdded":"2020-09-11",
           "title":"Consectetur Initiatives - Mercer Integration",
           "author":"Patrick Sanchez",
-          "activityTags":[
-            "Sales - General"
-          ]
+          "activityTags":"Sales - General"
        },
        {
           "type":"Meeting",
@@ -87,12 +68,7 @@
           "dateAdded":"2020-09-11",
           "title":"Custom Entity Page Report",
           "author":"Nick Buoniconti",
-          "activityTags":[
-            "Accounting: NAV / Capital Accounting",
-            "Demo - New Sales",
-            "Sales",
-            "Sales - General"
-          ]
+          "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales;Sales - General"
        },
        {
          "type":"Meeting",
@@ -100,9 +76,7 @@
          "dateAdded":"2021-02-15",
          "title":"Testing Entity Page API",
          "author":"John Doe",
-         "activityTags":[
-           "Sales"
-         ]
+         "activityTags":"Sales"
       }
     ]
  }
