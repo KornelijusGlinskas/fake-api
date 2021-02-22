@@ -2,78 +2,78 @@
     "entities":[
        {
           "type":"Meeting",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-11T13:10:56.000+0200",
+          "dateAdded":"2020-09-11T13:10:56.000+0200",
           "title":"Discussed additional investment with Ma...",
           "author":"Nick Buoniconti",
           "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales"
        },
        {
           "type":"Meeting",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-12T13:10:56.000+0200",
+          "dateAdded":"2020-09-12T13:10:56.000+0200",
           "title":"Draft PCH/PBR - Backstop functionality",
           "author":"Jennifer Antiguilliaro",
           "activityTags":"Sales - General"
        },
        {
           "type":"Call",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-11T13:10:56.000+0200",
+          "dateAdded":"2020-09-11T13:10:56.000+0200",
           "title":"Consectetur Initiatives - Mercer Integration",
           "author":"Patrick Sanchez",
           "activityTags":"Demo - New Sales;Sales"
        },
        {
           "type":"Document",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-15T13:10:56.000+0200",
+          "dateAdded":"2020-09-15T13:10:56.000+0200",
           "title":"Custom Entity Page Report",
           "author":"Seok Aei-young",
           "activityTags":"Demo - New Sales"
        },
        {
           "type":"Email",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-01T13:10:56.000+0200",
+          "dateAdded":"2020-09-01T13:10:56.000+0200",
           "title":"We asked your peers about their 2020 O...",
           "author":"Shamika Thompson"
        },
        {
           "type":"Call",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-11T13:10:56.000+0200",
+          "dateAdded":"2020-09-11T13:10:56.000+0200",
           "title":"Product Function Call with IR Team",
           "author":"Jennifer Antiguilliaro",
           "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales;Legal: Memorandum and Art;Sales - General"
        },
        {
           "type":"Email",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-12T13:10:56.000+0200",
+          "dateAdded":"2020-09-12T13:10:56.000+0200",
           "title":"Draft PCH/PHB - Backstop functionality",
           "author":"Patrick Sanchez"
        },
        {
           "type":"Meeting",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-11T15:10:56.000+0200",
+          "dateAdded":"2020-09-11T15:10:56.000+0200",
           "title":"Consectetur Initiatives - Mercer Integration",
           "author":"Patrick Sanchez",
           "activityTags":"Sales - General"
        },
        {
           "type":"Meeting",
-          "effectiveDate":"2020-09-11",
-          "dateAdded":"2020-09-11",
+          "effectiveDate":"2020-09-11T13:10:56.000+0200",
+          "dateAdded":"2020-09-11T13:10:56.000+0200",
           "title":"Custom Entity Page Report",
           "author":"Nick Buoniconti",
           "activityTags":"Accounting: NAV / Capital Accounting;Demo - New Sales;Sales;Sales - General"
        },
        {
          "type":"Meeting",
-         "effectiveDate":"2021-01-20",
-         "dateAdded":"2021-02-15",
+         "effectiveDate":"2020-09-01T10:10:56.000+0200",
+         "dateAdded":"2020-09-01T10:10:56.000+0200",
          "title":"Testing Entity Page API",
          "author":"John Doe",
          "activityTags":"Sales"
